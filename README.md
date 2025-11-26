@@ -6,7 +6,8 @@ Este repositório contém os scripts SQL desenvolvidos como parte das atividades
 
 ## 📂 Estrutura do Repositório
 
-banco_de_dados_generetion/ │ ├── ecommerce/ │ └── ecommerce.sql │ ├── farmacia/ │ └── db_farmacia_bem_estar.sql │ ├── gameOnline/ │ └── db_generation_game_online.sql │ ├── pizzaria/ │ └── db_pizzaria_legal.sql │ ├── RH/ │ └── db_rh.sql 
+banco_de_dados_generetion/ │ ├── ecommerce/ │ └── ecommerce.sql │ ├── farmacia/ │ └── db_farmacia_bem_estar.sql │ ├── gameOnline/ │ └── db_generation_game_online.sql │ ├── pizzaria/ │ └── db_pizzaria_legal.sql │ ├── RH/ │ └── db_rh.sql ├── vidas/
+│   └── db_construindo_vidas.sql
 
 
 ---
